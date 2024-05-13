@@ -1,0 +1,16 @@
+[
+  {
+    "ID": 1,
+    "Title": "Spaghetti Carbonara",
+    "Ingredients": "Spaghetti, Eggs, Bacon, Parmesan Cheese, Black Pepper",
+    "Steps": "1. Cook spaghetti. 2. Fry bacon until crispy. 3. Mix eggs and cheese. 4. Combine everything. 5. Season with black pepper.",
+    "Date": "2024-04-14T08:00:00"
+  },
+  {
+    "ID": 2,
+    "Title": "Chocolate Chip Cookies",
+    "Ingredients": "Flour, Butter, Sugar, Eggs, Chocolate Chips, Vanilla Extract",
+    "Steps": "1. Cream butter and sugar. 2. Add eggs and vanilla. 3. Mix dry ingredients. 4. Combine wet and dry. 5. Fold in chocolate chips. 6. Bake.",
+    "Date": "2024-04-14T10:30:00"
+  }
+]
